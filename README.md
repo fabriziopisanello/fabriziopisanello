@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fabriziopisanello, Senior Fullstack Developer, VR Developer.
+- 👀 I’m interested in web development in general and games. VR Developer on spare time. 
+- 🌱 I’m currently learning Python & C++.
+- 💞️ I’m LFG GR 135+ ZBarb, DHImpale.
+- 📫 You can chat me on Slack or you can reach out to me via email fabrizio.pisanello@weschool.com.
